@@ -18,7 +18,7 @@ The application combines several operational tools into a single interface, redu
 
 ### Comment Assistant
 
-![Comment Assistant-assistant.png
+screenshots/comment-assistant.png
 
 Structured interaction logging, workflow tracking, resolution management, timer utilities, and clipboard-ready documentation generation.
 
@@ -33,8 +33,6 @@ Rich text email generation with reusable templates, canned responses, dynamic gr
 screenshots/chat-assistant.png
 
 Slash-command driven response management with a searchable knowledge base, quick insertion workflows, and response administration tools.
-
----
 
 ## Key Features
 
