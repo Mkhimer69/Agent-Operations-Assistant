@@ -23,27 +23,23 @@ The application combines several operational tools into a single interface, redu
 ### Comment Assistant
 
 <p align="center">
-  khimer69/Agent-Operations-Assistant/main/screenshots/comment-assistant.png" width="900">
+  <img src="https://raw.githubusercontent.com/Mkhimer69/Agents-Assistant/refs/heads/main/screenshots/comment-assistant.png
 </p>
 
 Structured interaction logging, workflow tracking, resolution management, timer utilities, and clipboard-ready documentation generation.
 
----
-
 ### Email Assistant
 
 <p align="center">
-  raw.githubusercontent.com/Mkhimer69/Agent-Operations-Assistant/main/screenshots/email-assistant.png" width="900">
+  raw.githubusercontent.com/Mkhimer69/Agent-Operations-Assistant/refs/heads/main/screenshots/email-assistant.png" width="900">
 </p>
 
 Rich text email generation with reusable templates, canned responses, dynamic greetings, and automated formatting.
 
----
-
 ### Chat Assistant
 
 <p align="center">
-  https://raw.githubusercontent.com/Mkhimer69/Agent-Operations-Assistant/main/screenshots/chat-assistant.png
+  <img src="https://raw.githubusercontent.com/Mkhimer69/Agent-Operations-Assistant/refs/heads/main/screenshots/chat-assistant.png" width="900">
 </p>
 
 Slash-command driven response management with a searchable knowledge base, quick insertion workflows, response administration, and quick-reply automation.
