@@ -23,23 +23,27 @@ The application combines several operational tools into a single interface, redu
 ### Comment Assistant
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mkhimer69/Agents-Assistant/refs/heads/main/screenshots/comment-assistant.png
+  khimer69/Agent-Operations-Assistant/refs/heads/main/screenshots/comment-assistant.png" width="900">
 </p>
 
 Structured interaction logging, workflow tracking, resolution management, timer utilities, and clipboard-ready documentation generation.
 
+---
+
 ### Email Assistant
 
 <p align="center">
-  raw.githubusercontent.com/Mkhimer69/Agent-Operations-Assistant/refs/heads/main/screenshots/email-assistant.png" width="900">
+  https://raw.githubusercontent.com/Mkhimer69/Agent-Operations-Assistant/refs/heads/main/screenshots/email-assistant.png
 </p>
 
 Rich text email generation with reusable templates, canned responses, dynamic greetings, and automated formatting.
 
+---
+
 ### Chat Assistant
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mkhimer69/Agent-Operations-Assistant/refs/heads/main/screenshots/chat-assistant.png" width="900">
+  khimer69/Agent-Operations-Assistant/refs/heads/main/screenshots/chat-assistant.png" width="900">
 </p>
 
 Slash-command driven response management with a searchable knowledge base, quick insertion workflows, response administration, and quick-reply automation.
@@ -183,13 +187,13 @@ Google Sheets serves as a lightweight backend for template storage, feedback col
 
 ## Changelog
 
-See `CHANGELOG.md` for notable changes and release history.
+See `CHANGELOG.md` for release history and notable changes.
 
 ---
 
 ## Roadmap
 
-See `ROADMAP.md` for planned features and future development efforts.
+See `ROADMAP.md` for planned features and future development.
 
 ---
 
@@ -197,4 +201,4 @@ See `ROADMAP.md` for planned features and future development efforts.
 
 This repository showcases the application's architecture, design, and functionality for portfolio purposes.
 
-Company-specific data, proprietary business logic, customer information, internal operational procedures, and sensitive configurations have been intentionally excluded.
+Company-specific data, proprietary business logic, customer information, operational procedures, and internal configurations have been intentionally excluded.
