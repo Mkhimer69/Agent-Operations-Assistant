@@ -18,7 +18,7 @@ The application combines several operational tools into a single interface, redu
 
 ### Comment Assistant
 
-screenshots/comment-assistant.png
+![Comment Assistant-assistant.png
 
 Structured interaction logging, workflow tracking, resolution management, timer utilities, and clipboard-ready documentation generation.
 
